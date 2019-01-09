@@ -1,12 +1,16 @@
 # Publications
 This repository provides easy access to my publications and provides errata.
 ## Selected publications
-Haselsteiner, A. F., Lemkuhl, J., Pape, T., Windmeier, K.-L., Thoben, K.-D.: ViroCon: A software to compute multivariate extremes
-using the environmental contour method. Accepted by SoftwareX. [Access the preprint](https://github.com/ahaselsteiner/publications/blob/master/2018-10-25_SoftwareX_ViroCon_revised.pdf)
+* A.F. Haselsteiner, J. Lemkuhl, T. Pape, K.-L. Windmeier, K.-D. Thoben: 
+ViroCon: A software to compute multivariate extremes using the environmental contour method. 
+Accepted by SoftwareX. [(accepted manuscript)](https://github.com/ahaselsteiner/publications/blob/master/2018-10-25_SoftwareX_ViroCon_revised.pdf)
+* A.F. Haselsteiner, J.-H. Ohlendorf, S. Oelker, L. Ströer, K.-D. Thoben, K. Wiedemann, E. De Ridder, S. Lehmann: 
+Lifting Wind Turbine Components From a Floating Vessel: A Review on Current Solutions and Open Problems. 
+Accepted by Journal of Offshore Mechanics and Artic Engineering. [(accepted manuscript)](doi.org/10.1115/1.4042385)
+
 ## Errata
-* Haselsteiner, A.F., Ohlendorf, J.-H., Wosniok, W., Thoben, K.-D. (2017): Deriving environmental contours from highest density regions. [Coastal Engineering](https://doi.org/10.1016/j.coastaleng.2017.03.002) 123, 42-51. 
+* A.F. Haselsteiner, J.-H. Ohlendorf, W. Wosniok, K.-D. Thoben (2017): Deriving environmental contours from highest density regions. [Coastal Engineering](https://doi.org/10.1016/j.coastaleng.2017.03.002) 123, 42-51. 
   * Expression 9 should be  
 ![correct](errata/CoastalEngineering2018_expression8_erratum.png)  
 instead of  
 ![wrong](errata/CoastalEngineering2018_expression8_original.png)  
-   
