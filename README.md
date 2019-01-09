@@ -6,7 +6,7 @@ ViroCon: A software to compute multivariate extremes using the environmental con
 Accepted by SoftwareX. [(accepted manuscript)](https://github.com/ahaselsteiner/publications/blob/master/2018-10-25_SoftwareX_ViroCon_revised.pdf)
 * A.F. Haselsteiner, J.-H. Ohlendorf, S. Oelker, L. Ströer, K.-D. Thoben, K. Wiedemann, E. De Ridder, S. Lehmann: 
 Lifting Wind Turbine Components From a Floating Vessel: A Review on Current Solutions and Open Problems. 
-Accepted by Journal of Offshore Mechanics and Artic Engineering. [(accepted manuscript)](doi.org/10.1115/1.4042385)
+Accepted by Journal of Offshore Mechanics and Artic Engineering. [(accepted manuscript)](https://doi.org/10.1115/1.4042385)
 
 ## Errata
 * A.F. Haselsteiner, J.-H. Ohlendorf, W. Wosniok, K.-D. Thoben (2017): Deriving environmental contours from highest density regions. [Coastal Engineering](https://doi.org/10.1016/j.coastaleng.2017.03.002) 123, 42-51. 
