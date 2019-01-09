@@ -5,7 +5,7 @@ This repository provides easy access to my publications and provides errata.
 ViroCon: A software to compute multivariate extremes using the environmental contour method. 
 Accepted by SoftwareX. [(accepted manuscript)](https://github.com/ahaselsteiner/publications/blob/master/2018-10-25_SoftwareX_ViroCon_revised.pdf)
 * A.F. Haselsteiner, J.-H. Ohlendorf, S. Oelker, L. Ströer, K.-D. Thoben, K. Wiedemann, E. De Ridder, S. Lehmann: 
-Lifting Wind Turbine Components From a Floating Vessel: A Review on Current Solutions and Open Problems. 
+Lifting wind turbine components from a floating Vessel: A review on current solutions and open problems. 
 Accepted by Journal of Offshore Mechanics and Artic Engineering. [(accepted manuscript)](https://doi.org/10.1115/1.4042385)
 
 ## Errata
