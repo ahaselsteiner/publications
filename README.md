@@ -6,7 +6,7 @@ using the environmental contour method. Accepted by SoftwareX. [Access the prepr
 ## Errata
 * Haselsteiner, A.F., Ohlendorf, J.-H., Wosniok, W., Thoben, K.-D. (2017): Deriving environmental contours from highest density regions. [Coastal Engineering](https://doi.org/10.1016/j.coastaleng.2017.03.002) 123, 42-51. 
   * Expression 9 should be..
-![correct](errata/CoastalEngineering2018_expression8_erratum.png)..
-instead of..
-![wrong](errata/CoastalEngineering2018_expression8_original.png).
+![correct](errata/CoastalEngineering2018_expression8_erratum.png)  
+instead of  
+![wrong](errata/CoastalEngineering2018_expression8_original.png)  
    
