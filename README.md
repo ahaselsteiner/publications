@@ -9,6 +9,8 @@ Lifting wind turbine components from a floating vessel: A review on current solu
 Accepted by Journal of Offshore Mechanics and Artic Engineering. [(accepted manuscript)](https://doi.org/10.1115/1.4042385)
 
 ## Errata
+* Haselsteiner, A. F., & Thoben, K.-D. (2020). Predicting wave heights for marine design by prioritizing extreme events in a global model. Renewable Energy, 156, 1146–1157. https://doi.org/10.1016/j.renene.2020.04.112
+  * In Expression 6 and 7 the paranthesis, ( ), should be vertical bars, | |, to note the absolute value.
 * A.F. Haselsteiner, J.-H. Ohlendorf, W. Wosniok, K.-D. Thoben (2017): Deriving environmental contours from highest density regions. [Coastal Engineering](https://doi.org/10.1016/j.coastaleng.2017.03.002) 123, 42-51. 
   * Expression 9 should be  
 ![correct](errata/CoastalEngineering2018_expression8_erratum.png)  
